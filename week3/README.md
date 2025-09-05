@@ -1,0 +1,2 @@
+### SQL Basics
+This week focused on the basics of SQL. The database I created has two tables, companies and prices. The companies table includes tickers, the companies name, and what sector they belong to. The prices table includes tickers, dates (September 2nd through the 5th of 2025), closing prices for each day, and volume per day. I've also uploaded some basic queries to show off the table and the basics I covered this week. 
